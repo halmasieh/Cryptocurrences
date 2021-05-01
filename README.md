@@ -25,6 +25,17 @@ We summarize this analysis as below:
 
 2- Reduce the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame,  using the Principal Component Analysis (PCA) algorithm.
 
+
+
+
+
+<img src="" width="700" height="600"/>
+
+
+
+
+
+
 3- Create an elbow curve to find the best value for K from  DataFrame created in step 2.
 
 
@@ -46,7 +57,6 @@ We summarize this analysis as below:
 
 
 <img src="" width="700" height="600"/>
-
 
 
 
