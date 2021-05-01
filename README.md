@@ -13,6 +13,7 @@ In fact, we work primarily with the K-means algorithm, the main unsupervised alg
 
 ## Resources
 Software: [Jupyter Notebook](https://www.anaconda.com/products/individual)
+
 Module: Pandas, Plotly and Sklearn
 
 ## Summary
