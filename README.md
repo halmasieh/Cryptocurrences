@@ -50,7 +50,7 @@ We summarize this analysis as below:
 
 4- Run the K-means algorithm to predict the K clusters for the cryptocurrencies data, using K-means algorithm.
 
-5- Visualize the distinct groups that correspond to the three principal components you created in step 2, using scatter plots with Plotly Express and hvplot.
+5- Visualize the distinct groups that correspond to the three principal components you created in step 2, using scatter plot with Plotly Express and hvplot.
 
 
 
