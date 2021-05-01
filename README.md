@@ -42,7 +42,7 @@ We summarize this analysis as below:
 
 
 
-<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Elbow.PNG" width="500" height="600"/>
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Elbow.PNG" />
 
 
 
