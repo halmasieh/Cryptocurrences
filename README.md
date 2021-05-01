@@ -27,10 +27,42 @@ We summarize this analysis as below:
 
 3- Create an elbow curve to find the best value for K from  DataFrame created in step 2.
 
+
+
+
+
+<img src="" width="700" height="600"/>
+
+
+
+
+
 4- Run the K-means algorithm to predict the K clusters for the cryptocurrencies data, using K-means algorithm.
 
 5- Visualize the distinct groups that correspond to the three principal components you created in step 2, using scatter plots with Plotly Express and hvplot.
 
+
+
+
+
+<img src="" width="700" height="600"/>
+
+
+
+
+
+
 6- Create a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
+
+
+
+
+
+<img src="" width="700" height="600"/>
+
+
+
+
+
 
 7-Write the README report to describe the purpose of what was accomplished.
