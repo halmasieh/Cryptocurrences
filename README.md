@@ -7,16 +7,18 @@ The analysis can be perform as the following steps:
  - Use input data only
  - Process data for unsupervised model
  - Use clustering and K-means algorithm
- - use principle component analysis (PCA)
+ - Use principle component analysis (PCA)
  
 In fact, we work primarily with the K-means algorithm, the main unsupervised algorithm that groups similar data into clusters. Then, we build on this by speeding up the process using principal component analysis (PCA), which employs many different features.
 
 ## Resources
 Software: [Jupyter Notebook](https://www.anaconda.com/products/individual)
-Module: Pandas, Plotly and Sklearn
+
+library: Pandas, Plotly and Sklearn
 
 ## Summary
 The cryptocurrency data we will be working with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what we are looking for, therefore, we use unsupervised machine learning techniques to analyze data. 
+
 We summarize this analysis as below:
 
 1- Preprocess the dataset in order to perform PCA in step 2, using Pandas.
