@@ -7,7 +7,7 @@ The analysis can be perform as the following steps:
  - Use input data only
  - Process data for unsupervised model
  - Use clustering and K-means algorithm
- - use principle component analysis (PCA)
+ - Use principle component analysis (PCA)
  
 In fact, we work primarily with the K-means algorithm, the main unsupervised algorithm that groups similar data into clusters. Then, we build on this by speeding up the process using principal component analysis (PCA), which employs many different features.
 
