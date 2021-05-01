@@ -18,6 +18,7 @@ library: Pandas, Plotly and Sklearn
 
 ## Summary
 The cryptocurrency data we will be working with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what we are looking for, therefore, we use unsupervised machine learning techniques to analyze data. 
+
 We summarize this analysis as below:
 
 1- Preprocess the dataset in order to perform PCA in step 2, using Pandas.
