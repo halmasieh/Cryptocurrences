@@ -31,7 +31,7 @@ We summarize this analysis as below:
 
 
 
-<img src="" width="700" height="600"/>
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Elbow.PNG" width="700" height="600"/>
 
 
 
