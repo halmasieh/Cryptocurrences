@@ -42,7 +42,7 @@ We summarize this analysis as below:
 
 
 
-<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Elbow.PNG" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Elbow.PNG" width="400" height="500"/>
 
 
 
@@ -56,7 +56,7 @@ We summarize this analysis as below:
 
 
 
-<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Scatter_Plot.PNG" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Scatter_Plot.PNG" width="400" height="500"/>
 
 
 
@@ -68,7 +68,7 @@ We summarize this analysis as below:
 
 
 
-<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Table.PNG" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Table.PNG" width="400" height="500"/>
 
 
 
