@@ -56,7 +56,7 @@ We summarize this analysis as below:
 
 
 
-<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Scatter_Plot.PNG" width="500" height="500"/>
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Scatter_Plot.PNG" />
 
 
 
@@ -68,7 +68,7 @@ We summarize this analysis as below:
 
 
 
-<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Table.PNG" width="500" height="600"/>
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Table.PNG" />
 
 
 
