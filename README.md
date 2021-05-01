@@ -29,7 +29,7 @@ We summarize this analysis as below:
 
 
 
-<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/PCA.PNG" width="700" height="600"/>
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/PCA.PNG" width="400" height="500"/>
 
 
 
