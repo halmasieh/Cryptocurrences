@@ -25,12 +25,54 @@ We summarize this analysis as below:
 
 2- Reduce the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame,  using the Principal Component Analysis (PCA) algorithm.
 
+
+
+
+
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/PCA.PNG" width="300" height="400"/>
+
+
+
+
+
+
 3- Create an elbow curve to find the best value for K from  DataFrame created in step 2.
+
+
+
+
+
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Elbow.PNG" />
+
+
+
+
 
 4- Run the K-means algorithm to predict the K clusters for the cryptocurrencies data, using K-means algorithm.
 
-5- Visualize the distinct groups that correspond to the three principal components you created in step 2, using scatter plots with Plotly Express and hvplot.
+5- Visualize the distinct groups that correspond to the three principal components you created in step 2, using scatter plot with Plotly Express and hvplot.
+
+
+
+
+
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Scatter_Plot.PNG" />
+
+
+
+
 
 6- Create a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
+
+
+
+
+
+<img src="https://github.com/halmasieh/Cryptocurrences/blob/main/Resources/Table.PNG" />
+
+
+
+
+
 
 7-Write the README report to describe the purpose of what was accomplished.
