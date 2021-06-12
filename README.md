@@ -14,7 +14,7 @@ In fact, we work primarily with the K-means algorithm, the main unsupervised alg
 ## Resources
 Software: [Jupyter Notebook](https://www.anaconda.com/products/individual)
 
-library: Pandas, Plotly and Sklearn
+Library: Pandas, Plotly and Sklearn
 
 ## Summary
 The cryptocurrency data we will be working with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what we are looking for, therefore, we use unsupervised machine learning techniques to analyze data. 
